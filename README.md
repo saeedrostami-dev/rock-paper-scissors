@@ -21,7 +21,7 @@ A simple command-line Rock Paper Scissors game built with Python.
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone git@github.com:saeedrostami-dev/rock-paper-scissors.git
 cd rock-paper-scissors
 ```
 
